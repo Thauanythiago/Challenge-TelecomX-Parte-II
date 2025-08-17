@@ -103,3 +103,7 @@ Nesta etapa, construímos modelos preditivos para identificar clientes com maior
 ## 👤 Autor
 Desenvolvido por Thauany Eugenia Thiago como parte dos estudos na Alura e do programa ONE - Oracle Next Education.\
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thauany-eugenia-thiago-629048203)
+
+<p align="center">
+  <img src="Badgem%20telecomX%20II.png" alt="Badge TelecomX II">
+</p>
