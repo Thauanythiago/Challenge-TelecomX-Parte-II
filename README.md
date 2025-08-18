@@ -7,7 +7,7 @@ A análise foi dividida em duas etapas:
 1. **Análise Exploratória e Tratamento dos Dados**  
 2. **Construção de Modelos Preditivos de Churn**  
 
-O desafio foi proposto como parte prática da formação **"Aprendendo a fazer ETL"** da Trilha de Data Science da Alura.
+O desafio foi proposto como parte prática da formação **"Estatística e Machine Learning"** da Trilha de Data Science da Alura.
 
 ---
 
